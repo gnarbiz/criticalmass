@@ -1,5 +1,5 @@
 <?php
 
-echo "criticalmass!";
+echo "<h3>criticalmass!</h3>";
 
 ?>
