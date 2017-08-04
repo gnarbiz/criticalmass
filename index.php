@@ -1,4 +1,5 @@
-<?php 
-//criticalmass!
-//halabuda@gmail.com
+<?php
+
+echo "criticalmass!";
+
 ?>
